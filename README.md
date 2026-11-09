@@ -36,7 +36,7 @@
 <img src="https://raw.githubusercontent.com/twoods63/twoods63/cards/summary.svg" alt="GitHub stats summary in green dot matrix" width="400" />
 </td>
 <td align="center" valign="top">
-<b>my most used language: <code>Python</code></b><br>
+<b>My favorite used language: <code>Java</code></b><br>
 <img src="https://media.tenor.com/ibNmdPr4anMAAAAj/coin-stud.gif" alt="Spinning golden Lego stud" width="90" /><br>
 </td>
 </tr>
