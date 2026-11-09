@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Trinity</h1>
+<h1 align="center">Hi I'm Trinity</h1>
+<img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/biography/waving-hand-1868e50bf83d.webp" width="28" align="absbottom" alt="👋" style="visibility: visible; max-width: 100%;">
 <h3 align="center">CS student at Kennesaw State University and IT Equipment Coordinator at Amazon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twoods63&label=Profile%20views&color=0e75b6&style=flat" alt="twoods63" /> </p>
