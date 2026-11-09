@@ -45,12 +45,12 @@
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twoods63/twoods63/cards/about-dark.svg">
-  <img src="https://raw.githubusercontent.com/twoods63/twoods63/cards/about-light.svg" width="400" alt="About">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twoods63/twoods63/cards/contributions-dark.svg">
   <img src="https://raw.githubusercontent.com/twoods63/twoods63/cards/contributions-light.svg" width="400" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twoods63/twoods63/cards/streaks-dark.svg">
+  <img src="https://raw.githubusercontent.com/twoods63/twoods63/cards/streaks-light.svg" width="400" alt="Streaks">
 </picture>
 </p>
 <!-- cool-readme:end -->
