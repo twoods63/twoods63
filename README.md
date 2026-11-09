@@ -38,7 +38,6 @@
 <td align="center" valign="top">
 <b>my most used language: <code>Python</code></b><br>
 <img src="https://media.tenor.com/ibNmdPr4anMAAAAj/coin-stud.gif" alt="Spinning golden Lego stud" width="90" /><br>
-<img src="https://raw.githubusercontent.com/twoods63/twoods63/cards/languages.svg" alt="Most used languages in green dot matrix" width="400" />
 </td>
 </tr>
 </table>
