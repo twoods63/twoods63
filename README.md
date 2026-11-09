@@ -1,43 +1,46 @@
-<h1 align="center">Hi I'm Trinity</h1>
-<img src="https://raw.githubusercontent.com/aroramrinaal/aroramrinaal/main/assets/profile-readme/biography/waving-hand-1868e50bf83d.webp" width="28" align="absbottom" alt="👋" style="visibility: visible; max-width: 100%;">
-<h3 align="center">CS student at Kennesaw State University and IT Equipment Coordinator at Amazon</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=twoods63&label=Profile%20views&color=0e75b6&style=flat" alt="twoods63" /> </p>
+<img src="assets/batman.gif" alt="Pixel art Batman standing on a Gotham rooftop beneath the Bat-Signal" width="830" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=twoods63" alt="twoods63" /></a> </p>
+<img src="assets/panel-greeting.svg" alt="Hello, world. My name is Trinity Woods. Cloud, security, networks." width="830" />
 
-- 🔭 I’m currently working on **Andruil Distributed Mesh Telemetry & Node Hand-Off**
+[![GitHub](https://img.shields.io/badge/GitHub-14060a?style=for-the-badge&logo=github&logoColor=ff4a4a&labelColor=14060a&color=ff4a4a)](https://github.com/twoods63)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14060a?style=for-the-badge&logo=linkedin&logoColor=5df2ff&labelColor=14060a&color=5df2ff)](https://www.linkedin.com/in/trinity-i-woods/)
 
-- 🌱 I’m currently learning **Data Center Operations**
+<img src="assets/panel-about.svg" alt="Profile: Computer Science student at Kennesaw State University graduating December 2026. Former Cloud Engineer intern at the Southern Poverty Law Center with Azure, RBAC, PowerShell automation, and Azure Active Directory. Currently an IT Equipment Coordinator at Amazon. Interested in cloud infrastructure, cybersecurity, and networking, with a goal of a cybersecurity career requiring a security clearance." width="830" />
 
-- 💬 Ask me about **Azure, PowerShell automation, RBAC, network security, and threat modeling**
+<img src="assets/header-skills.svg" alt="Skills" width="830" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/trinity-i-woods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trinity-i-woods" height="30" width="40" /></a>
-</p>
+![Azure](https://img.shields.io/badge/Azure-14060a?style=for-the-badge&logo=microsoftazure&logoColor=ff4a4a)
+![PowerShell](https://img.shields.io/badge/PowerShell-14060a?style=for-the-badge&logo=powershell&logoColor=ff4a4a)
+![Python](https://img.shields.io/badge/Python-14060a?style=for-the-badge&logo=python&logoColor=ff4a4a)
+![Java](https://img.shields.io/badge/Java-14060a?style=for-the-badge&logo=openjdk&logoColor=ff4a4a)
+![C++](https://img.shields.io/badge/C++-14060a?style=for-the-badge&logo=cplusplus&logoColor=ff4a4a)
+![C#](https://img.shields.io/badge/C%23-14060a?style=for-the-badge&logo=dotnet&logoColor=ff4a4a)
+![JavaScript](https://img.shields.io/badge/JavaScript-14060a?style=for-the-badge&logo=javascript&logoColor=ff4a4a)
+![Bash](https://img.shields.io/badge/Bash-14060a?style=for-the-badge&logo=gnubash&logoColor=ff4a4a)
+![React](https://img.shields.io/badge/React-14060a?style=for-the-badge&logo=react&logoColor=ff4a4a)
+![Firebase](https://img.shields.io/badge/Firebase-14060a?style=for-the-badge&logo=firebase&logoColor=ff4a4a)
+![Linux](https://img.shields.io/badge/Linux-14060a?style=for-the-badge&logo=linux&logoColor=ff4a4a)
+![Wireshark](https://img.shields.io/badge/Wireshark-14060a?style=for-the-badge&logo=wireshark&logoColor=ff4a4a)
+![Git](https://img.shields.io/badge/Git-14060a?style=for-the-badge&logo=git&logoColor=ff4a4a)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+![Certiport IT Specialist: Cybersecurity](https://img.shields.io/badge/Certiport_IT_Specialist-Cybersecurity-14060a?style=for-the-badge&labelColor=14060a&color=5df2ff)
+![Certiport IT Specialist: Cloud Computing](https://img.shields.io/badge/Certiport_IT_Specialist-Cloud_Computing-14060a?style=for-the-badge&labelColor=14060a&color=5df2ff)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twoods63&show_icons=true&locale=en&layout=compact" alt="twoods63" /></p>
+<img src="assets/header-stats.svg" alt="GitHub stats" width="830" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twoods63&show_icons=true&locale=en" alt="twoods63" /></p>
+<table>
+<tr>
+<td align="center" valign="top">
+<img src="https://raw.githubusercontent.com/twoods63/twoods63/cards/summary.svg" alt="GitHub stats summary in green dot matrix" width="400" />
+</td>
+<td align="center" valign="top">
+<b>my most used language: <code>Python</code></b><br>
+<img src="https://media.tenor.com/ibNmdPr4anMAAAAj/coin-stud.gif" alt="Spinning golden Lego stud" width="90" /><br>
+<img src="https://raw.githubusercontent.com/twoods63/twoods63/cards/languages.svg" alt="Most used languages in green dot matrix" width="400" />
+</td>
+</tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twoods63&" alt="twoods63" /></p>
-
-
-<!--
-**twoods63/twoods63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
