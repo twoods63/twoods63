@@ -1,12 +1,12 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: twoods63
-show: [summary, languages, streaks, about]
+show: [summary, languages, about, contributions]
 count:
   private: true
   orgs: true
 look:
-  style: dotmatrix
-  color: green
+  style: classic
+  color: github
   background: none
 cards:
   about:
